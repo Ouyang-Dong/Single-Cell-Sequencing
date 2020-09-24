@@ -1,4 +1,4 @@
-# Single-Cell-Sequencing-
+# Single-Cell-Sequencing
 Two methods of single cell sequencing are Single cell RNA sequencing and CyTOF
     <div align=center><img src=https://github.com/Ouyang-Dong/Single-Cell-Sequencing/blob/master/images/Scs.jpg/></div>
 ### 1.单细胞RNA测序方法(Single cell RNA sequencing)
