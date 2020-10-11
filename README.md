@@ -15,3 +15,8 @@ Two methods of single cell sequencing are Single cell RNA sequencing and CyTOF
 ### 3.目前对单细胞数据处理的情况
     这一部分主要利用PPT进行的汇总
 [Single Cell Analysis](https://pdf.maitube.com/pdf/?e=agKKLayw61hgka)
+
+
+Eu153Di	-0.010742827	-0.097280907	-0.066487665
+Gd155Di	0.806253446	0.614434571	0.736385719
+Gd156Di	0.218568815	0.024901623	0.463126534
